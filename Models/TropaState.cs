@@ -3,7 +3,7 @@
     public enum TropaState
     {
         Available,
-        Open,
+        ToClose,
         Closed
     }
 }
